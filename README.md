@@ -63,7 +63,7 @@ pip install pandas numpy yfinance scikit-learn xgboost plotly tabulate
 
 ## 🚀 Usage
 1. Clone the repository:
-   ``bash
+   ```bash
    gh repo clone Goral-5/StockPredictions_MLmodule
    ```
 3. Run the script:
