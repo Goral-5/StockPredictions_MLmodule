@@ -64,14 +64,15 @@ pip install pandas numpy yfinance scikit-learn xgboost plotly tabulate
 ## 🚀 Usage
 1. Clone the repository:
    ``
+   gh repo clone Goral-5/StockPredictions_MLmodule
    ```
-2. Run the script:
+3. Run the script:
    ```bash
    main(1).py
    ```
 
-3. Enter a stock ticker symbol (e.g., RELIANCE.BO, TCS.BO) when prompted.
-4. View the predictions and interactive charts.
+4. Enter a stock ticker symbol (e.g., RELIANCE.BO, TCS.BO) when prompted.
+5. View the predictions and interactive charts.
 
 ---
 
