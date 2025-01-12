@@ -63,13 +63,11 @@ pip install pandas numpy yfinance scikit-learn xgboost plotly tabulate
 
 ## 🚀 Usage
 1. Clone the repository:
-   ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   ``
    ```
 2. Run the script:
    ```bash
-   python stock_prediction.py
+   main(1).py
    ```
 
 3. Enter a stock ticker symbol (e.g., RELIANCE.BO, TCS.BO) when prompted.
